@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normalSize">18dp</dimen>
+    <dimen name="normalFont">18sp</dimen>
+    <dimen name="normalMargin">18dp</dimen>
+    <dimen name="largeFont">26sp</dimen>
+    <dimen name="largeSize">26dp</dimen>
+    <dimen name="textViewWidth">85dp</dimen>
+    <dimen name="imageWidth">150dp</dimen>
+    <dimen name="imageHeight">150dp</dimen>
+</resources>
